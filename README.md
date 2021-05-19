@@ -1,5 +1,7 @@
 # Object Detection Single Shot Detector (SSD)
 
+![image](lcs-detection.png)
+
 This implements Single Shot detectors and MobileNets
 - combined, results in fast, real-time object detection that is computationally affordable (Raspberry Pi)
 - typically you use an existing network architecture (VGG or ResNet)..however, these are very large
